@@ -40,4 +40,4 @@ project_name = SCP-079-PM
 zh_cn = True
 
 [encrypt]
-password = [DATA EXPUNGED]
+password = 6666
